@@ -1,0 +1,16 @@
+Datos del alumno:
+NOmbre: Roger Richard Mamani Choque
+__________________________________
+
+bd: ipad-roger
+
+usuario: root
+
+contraseña: root
+
+________________________________
+titulo de sitio: Biblioteca
+
+Nombre del usuario: roger
+
+Contraseña: 123456

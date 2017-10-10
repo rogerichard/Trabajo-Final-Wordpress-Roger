@@ -1,0 +1,6 @@
+bd: ipad-roger
+usuario: root
+contraseña: root
+titulo de sitio_ Biblioteca
+NOmbre del usuario: roger
+contraseña: 123456
